@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+supabase
+python-dotenv
+sentence-transformers
+numpy
+pydantic
+pydantic-settings
+streamlit
+requests
